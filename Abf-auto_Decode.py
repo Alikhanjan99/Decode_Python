@@ -24,9 +24,9 @@ Banner =(
 r+"""       `-.      .-'
           -./\.-
        -.  /__\  .-     [+]  Autobruteforce   [+]
-   `-.   `/____\,   .-' [Coded by Naufal Raditya]
-       -./.-""-.\.-     [Facebook : Fallyn      ]
-        /< (()) >\      [Instagram: @ranxietty  ]
+   `-.   `/____\,   .-' [Coded by Ali The Python]
+       -./.-""-.\.-     [Facebook :Ali KH An jan ]
+        /< (()) >\      [Instagram: Alikhanjan38  ]
        /__`-..-'__\     
       /___|____|___\ """)
 def login():

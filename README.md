@@ -40,3 +40,4 @@ pkg update && pkg update -y ; pkg install python2 -y ; pkg install python2 -y ; 
 [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/alikhan.jan.38)
 [![](https://img.shields.io/badge/Instagram-red?logo=Instagram&logoColor=red&labelColor=white)](https://www.instagram.com/alikhanjan38)
 [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/qr/YYKK4T6ZLCKNK1)
+#### Thanks For Using My Script

@@ -18,14 +18,14 @@
 
 #### Run script
 ```python
-git clone https://github.com/alikhanjan99/Decode_Python.git
-ls
+- git clone https://github.com/alikhanjan99/Decode_Python.git
+- ls
 choose any file do you weent do use script and enter commond like this (cd zlogger) (cd Decode_Python)
-cd Decode_Python
-ls
+- cd Decode_Python
+- ls
 enter file name do went to you put her
 
-python2 Lov3.py
+- python2 Lov3.py
 ```
 
 single cmds

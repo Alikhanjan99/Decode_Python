@@ -63,7 +63,7 @@ Hacking Tools And Facebook Bot
 	
 	$ pkg install git
 	
-	$ git clone https://github.com/MR-X-Junior/Facebook
+	$ git clone https://github.com/Alikhanjan99/Facebook
 	
 	$ cd Facebook
 	

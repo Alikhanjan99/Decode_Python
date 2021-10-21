@@ -14,7 +14,7 @@ $ pkg install mc
 
 $ pkg install python -y
 
-$ git clone https://github.com/MR-X-Junior/Virtex
+$ git clone https://github.com/Alikhanjan99/Decode_Python
 
 $ termux-setup-storage
 
